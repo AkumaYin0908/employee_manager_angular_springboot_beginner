@@ -17,3 +17,4 @@ The application has undergone some modifications and updates to accommodate diff
 5. **Search Employees**
 
      
+![image](https://github.com/AkumaYin0908/employee_manager_angular_springboot_beginner/assets/72924944/820421c6-5d7e-4422-be73-35ca2626096c)
